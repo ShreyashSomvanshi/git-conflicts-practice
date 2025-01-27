@@ -5,4 +5,4 @@
 4. Start a journal
 5. Attend a community event
 6. Learn a new skill online
-7. Explore a nearby town
+7. Explore a nearby town - (Modified: try-branch1)
