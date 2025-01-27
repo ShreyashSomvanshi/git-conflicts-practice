@@ -1,4 +1,4 @@
-1. Read a new book
+1. Read a new book -(Modified via Github) - first direct commit
 2. Go for a hike
 3. Try a new recipe
 3. Watch a documentary
